@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">activity_main</string>
+    <string name="btnHello">Hello</string>
+</resources>
